@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋, ¿Programamos?</h1>
+<h1 align="left">Hey 👋, Programamos??</h1>
 
 ###
 
