@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋, ¿Quieres que trabajemos? <br>Aquí es lo único que se hace.</h1>
+<h1 align="left">Hey 👋, ¿Programamos?</h1>
 
 ###
 
